@@ -1,0 +1,31 @@
+﻿  d125k.cpp
+  d16k.cpp
+  d1k.cpp
+  d1m.cpp
+  d200.cpp
+  d250k.cpp
+  d2k.cpp
+  d300.cpp
+  d32k.cpp
+  d4k.cpp
+  d500.cpp
+  d500k.cpp
+  d64k.cpp
+  d8k.cpp
+  Generating Code...
+C:\Users\Panagiotis\Desktop\WWTBAM22\d8k.cpp(273): warning C4715: 'd8k': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d64k.cpp(272): warning C4715: 'd64k': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d500k.cpp(273): warning C4715: 'd500k': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d500.cpp(272): warning C4715: 'd500': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d4k.cpp(271): warning C4715: 'd4k': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d32k.cpp(272): warning C4715: 'd32k': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d300.cpp(275): warning C4715: 'd300': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d2k.cpp(272): warning C4715: 'd2k': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d250k.cpp(272): warning C4715: 'd250k': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d200.cpp(272): warning C4715: 'd200': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d1m.cpp(272): warning C4715: 'd1m': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d1k.cpp(272): warning C4715: 'd1k': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d16k.cpp(274): warning C4715: 'd16k': not all control paths return a value
+C:\Users\Panagiotis\Desktop\WWTBAM22\d125k.cpp(272): warning C4715: 'd125k': not all control paths return a value
+  LINK : C:\Users\Panagiotis\Desktop\WWTBAM22\x64\Debug\WWTBAM22.exe not found or not built by the last incremental link; performing full link
+  WWTBAM22.vcxproj -> C:\Users\Panagiotis\Desktop\WWTBAM22\x64\Debug\WWTBAM22.exe
